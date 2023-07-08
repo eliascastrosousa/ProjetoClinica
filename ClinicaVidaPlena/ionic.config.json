@@ -1,0 +1,7 @@
+{
+  "name": "ClinicaVidaPlena",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
